@@ -194,7 +194,7 @@ function banner($Green,$White){
  /  )  _   __ /  o // __  ,
 /__/__/_)_(_)<__<_//_/ (_/_
      /           />     /  
-    '           </     '   "."$White Agathasangkara\n\n";
+    '           </     '   "."$White ChalKunxD\n\n";
 }
 
 function generateAccount($Red,$White,$Green,$Grey,$Blue){
@@ -280,7 +280,7 @@ function generateAccount($Red,$White,$Green,$Grey,$Blue){
 		file_put_contents('res_spotify.json', "$saved\n", FILE_APPEND);
 	}
 	
-	echo "\n\n ϟ Done Create Spotify Account by Agathasangkara\n\n$Grey Donasi $White($Blue DANA $White) : 0895415306281\n\n";
+	echo "\n\n ϟ Done Create Spotify Account by ChalKunxD\n\n$Grey Donasi $White($Blue DANA $White) : 082339847196\n\n";
 }
 
 
